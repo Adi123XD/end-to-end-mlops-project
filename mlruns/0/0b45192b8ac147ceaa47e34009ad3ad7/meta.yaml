@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/end-to-end-mlops-project/mlruns/0/0b45192b8ac147ceaa47e34009ad3ad7/artifacts
+end_time: 1711711730776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b45192b8ac147ceaa47e34009ad3ad7
+run_name: legendary-colt-308
+run_uuid: 0b45192b8ac147ceaa47e34009ad3ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711723346
+status: 3
+tags: []
+user_id: adars

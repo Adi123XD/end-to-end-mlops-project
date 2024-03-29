@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/end-to-end-mlops-project/mlruns/0/52f80bb680ac44dc97e266cc07e0117c/artifacts
+end_time: 1711710587446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52f80bb680ac44dc97e266cc07e0117c
+run_name: marvelous-deer-863
+run_uuid: 52f80bb680ac44dc97e266cc07e0117c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710580542
+status: 3
+tags: []
+user_id: adars

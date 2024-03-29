@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/end-to-end-mlops-project/mlruns/0/a2c2b060e3434658b0c238f94d276239/artifacts
+end_time: 1711711019053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c2b060e3434658b0c238f94d276239
+run_name: wistful-goat-294
+run_uuid: a2c2b060e3434658b0c238f94d276239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711011622
+status: 3
+tags: []
+user_id: adars

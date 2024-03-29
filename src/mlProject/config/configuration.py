@@ -69,3 +69,19 @@ class ConfigurationManager:
 
         )
         return model_trainer_config
+    def get_model_evaluation_config(self )-> ModelEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params.ElasticNet
+        schema = self.schema.TARGET_COLUMN
+        create_directories([config.root_dir])
+        model_trainer_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            test_data_path= config.test_data_path , 
+            model_path=config.model_path,
+            metrics_file_name=config.metrics_file_name,
+            all_params=params,
+            target_column=schema.name,
+            mlflow_uri='https://dagshub.com/Adi123XD/end-to-end-mlops-project.mlflow'
+
+        )
+        return model_trainer_config
